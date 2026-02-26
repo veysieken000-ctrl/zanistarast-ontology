@@ -1,4 +1,4 @@
-ZANISTARAST — JEOLOJİK BOYUT EVRİMİ TEORİSİ (Teori 2)
+ZANISTARAST — JEOLOJİK ÇAĞLAR EVRİMİ TEORİSİ (Teori 2)
 0. Amaç
 Bu teori, jeolojik çağları yalnızca fosil kayıtları veya kayaç dönemleri olarak değil; boyutsal hazırlık evreleri olarak okur. Dünya tarihi, varlığın daha üst boyutlara hazırlanma sürecidir.
 1. Temel İlke
