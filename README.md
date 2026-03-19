@@ -60,5 +60,11 @@ Each layer has its own markdown file
 Zanistarast, Hebûn, Zanabûn, Mabûn, Rasterast, Ontology, Knowledge, Potential, Witnessing, Interaction, Ethical Economy, Governance, Multi-Agent Simulation
 
 ---
+## 📚 Papers
+
+- [Hebûn — Ontology](papers/hebun.md)
+- [Zanabûn — Epistemology](papers/zanabun.md)
+- [Mabûn — Economy](papers/mabun.md)
+- [Rasterast — Governance](papers/rasterast.md)
 
 
