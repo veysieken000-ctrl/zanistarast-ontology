@@ -1,3 +1,180 @@
+# 🧠 Zanabun: The Epistemology of Witnessing in Zanistarast Ontology  
+
+## Abstract  
+
+This paper introduces **Zanabun**, the epistemological layer of the Zanistarast framework. Zanabun defines knowledge not as accumulated data, but as **coherent, continuous, and validated witnessing**.  
+
+By establishing knowledge as a function of structured witnessing, Zanabun provides a unified model connecting perception, meaning, and systemic continuity. It offers a framework in which truth, error, and verification can be understood within a consistent ontological system.
+
+---
+
+## 1. Introduction  
+
+The nature of knowledge has been debated across philosophy, science, and epistemology. Traditional models often define knowledge as belief, justified belief, or information. However, these approaches frequently fail to integrate **continuity, coherence, and multi-agent validation**.  
+
+Within Zanistarast Ontology, knowledge is defined as:
+
+> **Knowledge = Timeless, coherent witnessing**
+
+Zanabun represents the epistemological layer that explains how knowledge emerges, stabilizes, and persists.
+
+---
+
+## 2. Definition of Zanabun  
+
+Zanabun can be defined as:
+
+> **The structured system of knowledge formed through coherent and continuous witnessing**
+
+This definition implies:
+
+- Knowledge is not static  
+- Knowledge is not isolated  
+- Knowledge is not purely subjective  
+
+Instead, knowledge is **systemic and relational**.
+
+---
+
+## 3. Structure of Witnessing  
+
+Zanabun is grounded in the structure of witnessing:
+
+> **Witnessing = Perception + Differentiation + Recording**
+
+### 3.1 Perception  
+The initial contact with reality.  
+
+### 3.2 Differentiation  
+The ability to distinguish and assign meaning.  
+
+### 3.3 Recording  
+The preservation of witnessing across time.  
+
+> Without recording, knowledge cannot exist.  
+
+---
+
+## 4. Coherence and Truth  
+
+Zanabun defines truth as coherence within witnessing.
+
+> **Truth = Coherent witnessing**  
+
+> **Falsehood = Inconsistent witnessing**
+
+This shifts the epistemological question from “What is true?” to:
+
+> “What remains consistently witnessed across time and observers?”
+
+---
+
+## 5. Multi-Witness Validation  
+
+A key principle of Zanabun is:
+
+- A single witness produces perception  
+- Multiple witnesses produce knowledge  
+
+> **Knowledge requires multi-witness validation**
+
+This introduces:
+
+- verification  
+- reproducibility  
+- collective cognition  
+
+Thus, knowledge is inherently **inter-subjective**.
+
+---
+
+## 6. Time and Knowledge  
+
+Knowledge is not momentary.
+
+It must satisfy:
+
+- continuity over time  
+- consistency across observations  
+
+> **Timelessness does not mean eternal existence, but stability across temporal witnessing**
+
+---
+
+## 7. Zanabun and Hebun  
+
+Zanabun is inseparable from Hebun.
+
+- Hebun → defines being  
+- Zanabun → defines knowledge  
+
+Their relationship:
+
+> Stable being produces stable knowledge  
+> Unstable being produces inconsistency  
+
+Thus:
+
+> Ontology and epistemology are unified.
+
+---
+
+## 8. Human Role in Zanabun  
+
+Humans are not passive receivers of information.
+
+They are:
+
+- witnesses  
+- interpreters  
+- validators  
+
+Humans contribute to knowledge by:
+
+- observing  
+- differentiating  
+- recording  
+- validating  
+
+> Humans are active participants in the formation of knowledge systems.
+
+---
+
+## 9. Systemic Implications  
+
+Zanabun provides a foundation for:
+
+- scientific validation  
+- artificial intelligence systems  
+- information theory  
+- collective knowledge networks  
+
+It allows knowledge to be understood as:
+
+> A structured, validated, and continuous system of witnessing.
+
+---
+
+## 10. Conclusion  
+
+Zanabun redefines knowledge as a **coherent and continuous process of witnessing**.
+
+It establishes that:
+
+- Knowledge is not data  
+- Knowledge is not belief alone  
+- Knowledge is not isolated  
+
+> Knowledge is a **systemic, validated, and temporally stable form of witnessing**
+
+This framework enables a unified understanding of truth, error, and cognition within Zanistarast Ontology.
+
+---
+
+## Keywords  
+
+Zanistarast, Zanabun, epistemology, knowledge, witnessing, truth, cognition
+
 Zanabûn — Bilgi ve Tanıklık
 Varlığın yapısını anlamaya çalışan birçok düşünce sistemi bilgi kavramını merkezde tutmuştur. Bilgi yalnızca verilerin birikimi değildir. Aynı zamanda gerçekliği anlamlandırma sürecidir.
 Zanistarast yaklaşımında bilgi kavramı Zanabûn terimi ile ifade edilir.
