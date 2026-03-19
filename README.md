@@ -1,3 +1,104 @@
+# 🔮 Zanistarast Ontology  
+### A Unified Framework of Being, Witnessing, and Potential  
+
+Zanistarast Ontology is a systematic and extensible framework that redefines **being, knowledge, and reality** through the interaction of **potential and witnessing**.
+
+> **Being = Interaction(Potential, Witnessing)**  
+
+---
+
+## 🧠 Core Definitions  
+
+### Potential  
+**Potential = The capacity to produce differentiation**  
+
+A unified ontological capacity expressed through:
+- Unity (Ehad)  
+- Will  
+- Power  
+- Life  
+
+---
+
+### Witnessing  
+**Witnessing = Perception + Differentiation + Recording**  
+
+- Perception → contact  
+- Differentiation → meaning  
+- Recording → continuity  
+
+> Without recording, knowledge cannot emerge.  
+> Without knowledge, being cannot persist.  
+
+---
+
+### Being  
+**Being = A stable pattern of witnessing**  
+
+Structured, continuous, and systemically sustained existence.
+
+---
+
+### Knowledge  
+**Knowledge = Timeless, coherent witnessing**  
+
+### Misinformation  
+**Misinformation = Inconsistent witnessing**
+
+---
+
+## 🔗 Core Principle  
+
+- No being without potential  
+- No emergence without witnessing  
+- No system without interaction  
+
+---
+
+## 🧍 Human Role  
+
+Humans do not create ex nihilo.  
+They organize existing potential through witnessing.
+
+---
+
+## 🌍 Vision  
+
+Zanistarast aims to provide:
+
+- A new ontological foundation  
+- A coherent epistemological system  
+- A bridge between philosophy, science, and AI  
+
+---
+
+## 📂 Structure  
+
+- `/core` → Ontological foundations  
+- `/papers` → Academic articles  
+- `/models` → System and AI interpretations  
+- `/notes` → Draft ideas and expansions  
+
+---
+
+## 🚀 Status  
+
+This is a developing framework.  
+Open for expansion, critique, and collaboration.
+
+---
+
+## 🤝 Contribution  
+
+Contributions, critiques, and discussions are welcome.
+
+---
+
+## 📜 License  
+
+MIT License (recommended)
+
+
 Introduction to Zanistarast: An Interdisciplinary Framework
 Throughout history, scholars have attempted to understand the structure of reality, the nature of knowledge, and the dynamics of human civilizations. Different disciplines such as physics, philosophy, sociology, and economics have approached these questions from their own perspectives.
 However, many complex phenomena cannot be fully explained within a single disciplinary boundary.
