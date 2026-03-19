@@ -304,3 +304,4 @@ These variables interact dynamically within complex societies.
 ## Papers
 
 - [Hebun: The Layered Structure of Being](papers/hebun.md)
+- [Zanabun: The Epistemology of Witnessing](papers/zanabun.md)
