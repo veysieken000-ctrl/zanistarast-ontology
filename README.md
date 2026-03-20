@@ -83,4 +83,20 @@ Zanistarast, Hebûn, Zanabûn, Mabûn, Rasterast, Ontology, Knowledge, Potential
 - [Mabûn — Economy](papers/mabun.md)
 - [Rasterast — Governance](papers/rasterast.md)
 
+## System Diagram
+
+```mermaid
+graph TD
+P[Physical] --> B[Biological]
+B --> C[Cognitive]
+C --> S[Spiritual]
+S --> J[Justice]
+T[Temporal] --> P
+T --> B
+T --> C
+T --> S
+T --> J
+Kodu kopyala
+
+---
 
