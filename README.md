@@ -1,4 +1,19 @@
 # 🔮 Zanistarast Ontology
+![status](https://img.shields.io/badge/status-research-blue)
+![model](https://img.shields.io/badge/model-hexa--nizam-purple)
+![field](https://img.shields.io/badge/field-complex--systems-green)
+## Hexa-Layer Structure
+
+The model is built on six interacting layers:
+
+1. Physical (Gravity)
+2. Biological (Fitrah)
+3. Cognitive (Consciousness)
+4. Temporal (Renewal)
+5. Spiritual (Conscience)
+6. Social (Justice)
+
+These layers form a unified system: **Hexa-Nizam**.
 
 **A computational and theoretical framework integrating Being, Knowledge, Economy, and Governance.**
 
