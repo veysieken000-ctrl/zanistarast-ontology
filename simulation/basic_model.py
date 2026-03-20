@@ -1,3 +1,7 @@
+🚀 AŞAMA 1 — BASİT SİMÜLASYON
+
+📘 İÇERİK (İLK TEST)
+
 # Witnessing (W)
 def witnessing():
     perception = random.uniform(0, 1)
@@ -25,7 +29,9 @@ results = [being() for _ in range(1000)]
 print("Average Being:", sum(results)/len(results))
 print("Max Being:", max(results))
 print("Min Being:", min(results))
-Python
+
+🚀 AŞAMA 2 — BİLGİ TESTİ
+
 def knowledge(witnesses):
     avg = sum(witnesses) / len(witnesses)
     variance = sum((w - avg)**2 for w in witnesses) / len(witnesses)
@@ -37,4 +43,18 @@ k, var = knowledge(Ws)
 
 print("Knowledge:", k)
 print("Consistency (low variance better):", var)
+
+🚀 AŞAMA 3 — MABÛN TESTİ
+
+resources = [random.uniform(0, 100) for _ in range(50)]
+
+def circulation(resources):
+    avg = sum(resources) / len(resources)
+    return [r * 0.9 + avg * 0.1 for r in resources]
+
+for _ in range(10):
+    resources = circulation(resources)
+
+print("Final distribution:", resources)
+
 
