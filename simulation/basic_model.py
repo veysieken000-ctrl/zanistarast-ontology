@@ -1,7 +1,5 @@
 🚀 AŞAMA 1 — BASİT SİMÜLASYON
 
-📘 İÇERİK (İLK TEST)
-
 # Witnessing (W)
 def witnessing():
     perception = random.uniform(0, 1)
