@@ -25,3 +25,16 @@ results = [being() for _ in range(1000)]
 print("Average Being:", sum(results)/len(results))
 print("Max Being:", max(results))
 print("Min Being:", min(results))
+Python
+def knowledge(witnesses):
+    avg = sum(witnesses) / len(witnesses)
+    variance = sum((w - avg)**2 for w in witnesses) / len(witnesses)
+    return avg, variance
+
+Ws = [witnessing() for _ in range(100)]
+
+k, var = knowledge(Ws)
+
+print("Knowledge:", k)
+print("Consistency (low variance better):", var)
+
