@@ -1,4 +1,5 @@
 # 🔮 Zanistarast Ontology
+
 ![status](https://img.shields.io/badge/status-research-blue)
 ![model](https://img.shields.io/badge/model-hexa--nizam-purple)
 ![field](https://img.shields.io/badge/field-complex--systems-green)
