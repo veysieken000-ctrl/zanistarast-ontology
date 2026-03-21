@@ -101,3 +101,14 @@ License not specified yet (to be added).
 ✨ Note
 This project is not just software,
 it is a conceptual and scientific framework.
+
+## Terminology
+
+This repository uses core Zanistarast terminology:
+
+- **Hebun** — Being / Ontology
+- **Zanabun** — Knowledge / Epistemology
+- **Mabun** — Economics / Flow
+- **Rasterast** — Governance / Control
+
+For the extended glossary, see `SOZLUK.md`.
