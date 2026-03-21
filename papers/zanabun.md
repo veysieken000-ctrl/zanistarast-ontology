@@ -1,3 +1,234 @@
+# Zanabûn: A Computational Epistemology of Knowledge as Coherent Multi-Agent Witnessing
+
+## Abstract
+
+This paper formalizes **Zanabûn**, the epistemological layer of the Zanistarast framework. It defines knowledge not as isolated information, but as:
+
+> Coherent, multi-source witnessing stabilized over time.
+
+Building on information theory, Bayesian reasoning, and collective intelligence models, we propose that:
+
+- perception produces data  
+- individual witnessing produces interpretation  
+- collective coherence produces knowledge  
+
+This framework enables knowledge to be measured, simulated, and falsified.
+
+---
+
+## 1. Introduction
+
+Traditional epistemology defines knowledge as:
+
+- justified true belief  
+- perception-based understanding  
+- logical deduction  
+
+However, modern science shows:
+
+- perception is noisy  
+- individuals are biased  
+- systems require validation  
+
+Zanabûn proposes:
+
+> Knowledge is not individual. It is **collective and coherence-based**.
+
+---
+
+## 2. Core Definition
+
+We define:
+
+\[
+Knowledge = Coherent(W_1, W_2, ..., W_n)
+\]
+
+Where:
+
+- \(W_i\) = witnessing of agent i  
+
+---
+
+## 3. Witnessing Structure
+
+Each witnessing unit:
+
+\[
+W = Perception + Differentiation + Recording
+\]
+
+Thus:
+
+- perception → raw data  
+- differentiation → interpretation  
+- recording → memory  
+
+---
+
+## 4. From Perception to Knowledge
+
+Process:
+
+1. Perception → data  
+2. Individual witnessing → subjective interpretation  
+3. Multi-agent comparison → filtering  
+4. Coherence → knowledge  
+
+---
+
+## 5. Mathematical Formulation
+
+### Average Knowledge
+
+\[
+K = \frac{1}{n} \sum W_i
+\]
+
+### Coherence (Variance)
+
+\[
+\sigma^2 = \frac{1}{n} \sum (W_i - K)^2
+\]
+
+Interpretation:
+
+- low variance → high truth coherence  
+- high variance → inconsistency  
+
+---
+
+## 6. Definition of Truth
+
+Zanabûn defines truth as:
+
+> Low-variance, stable, multi-agent witnessing
+
+Thus:
+
+- truth is not absolute assertion  
+- truth is **coherence across observers**
+
+---
+
+## 7. Misinformation
+
+We define:
+
+> Misinformation = High-variance witnessing
+
+Properties:
+
+- inconsistent  
+- unstable  
+- collapses over time  
+
+---
+
+## 8. Information Integrity Principle
+
+We propose:
+
+> **H1: Knowledge stability depends on coherence of witnessing across agents.**
+
+---
+
+## 9. Error and Noise
+
+Sources:
+
+- sensory noise  
+- cognitive bias  
+- incomplete data  
+
+Thus:
+
+> Individual witnessing is insufficient for knowledge.
+
+---
+
+## 10. Collective Intelligence
+
+Zanabûn aligns with:
+
+- swarm intelligence  
+- distributed systems  
+- consensus algorithms  
+
+Thus:
+
+> Knowledge emerges from **networked validation**
+
+---
+
+## 11. Simulation Model
+
+Agents:
+
+- perceive environment  
+- generate witnessing values  
+
+System computes:
+
+- average knowledge  
+- variance (coherence)  
+
+Observations:
+
+- convergence → knowledge  
+- divergence → misinformation  
+
+---
+
+## 12. Falsifiability
+
+Zanabûn fails if:
+
+- individual witnessing produces stable truth alone  
+- coherence does not correlate with stability  
+- random systems outperform structured consensus  
+
+---
+
+## 13. Integration with Hebûn
+
+- Hebûn → being = stable pattern  
+- Zanabûn → knowledge = stable coherence  
+
+Thus:
+
+> Knowledge stabilizes being.
+
+---
+
+## 14. Implications
+
+This model implies:
+
+- truth is emergent  
+- knowledge is relational  
+- certainty is statistical  
+
+---
+
+## 15. Conclusion
+
+Zanabûn redefines epistemology:
+
+> Knowledge is not owned. It is **emergent from coherence**.
+
+This allows:
+
+- measurement  
+- simulation  
+- validation  
+
+---
+
+## Keywords
+
+Zanabûn, Epistemology, Information Theory, Collective Intelligence, Knowledge Systems, Coherence
+
 # Zanabûn: The Epistemology of Knowledge in Zanistarast Framework
 
 ## Abstract
