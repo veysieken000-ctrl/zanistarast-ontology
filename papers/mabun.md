@@ -1,3 +1,253 @@
+# Mabûn: A Circulation-Based Economic Model for Stability in Non-Equilibrium Systems
+
+## Abstract
+
+This paper introduces **Mabûn**, the economic layer of the Zanistarast framework. It rejects the classical assumption of perfect equilibrium and instead proposes:
+
+> Economic stability emerges from continuous circulation, not static balance.
+
+Building on non-equilibrium thermodynamics, network theory, and agent-based economics, we argue that:
+
+- perfect justice is unattainable  
+- equilibrium is unstable  
+- circulation is the only sustainable stabilizing mechanism  
+
+We formalize circulation mathematically and propose simulation-based validation.
+
+---
+
+## 1. Introduction
+
+Classical economics assumes:
+
+- equilibrium markets  
+- rational agents  
+- optimal distribution  
+
+However, real-world systems show:
+
+- inequality persists  
+- shocks disrupt balance  
+- static equilibrium collapses  
+
+Mabûn proposes a different principle:
+
+> Stability is not balance. Stability is **flow**.
+
+---
+
+## 2. Core Principle
+
+> **Economy = Circulation of resources across agents over time**
+
+Not:
+
+- fixed distribution  
+- static fairness  
+
+But:
+
+- dynamic redistribution  
+
+---
+
+## 3. Why Perfect Justice is Impossible
+
+Constraints:
+
+- time variation  
+- spatial inequality  
+- production differences  
+- information asymmetry  
+
+Thus:
+
+> Perfect equality cannot be sustained.
+
+---
+
+## 4. Circulation Model
+
+We define resource evolution:
+
+\[
+R_i(t+1) = (1 - \alpha) R_i(t) + \alpha \bar{R}(t)
+\]
+
+Where:
+
+- \(R_i\) = resources of agent i  
+- \(\bar{R}\) = average resource  
+- \(\alpha\) = circulation rate  
+
+---
+
+## 5. Interpretation
+
+- \(\alpha = 0\) → no redistribution → collapse  
+- \(\alpha = 1\) → forced equality → instability  
+- optimal \(\alpha\) → dynamic balance  
+
+---
+
+## 6. System Behavior
+
+### Without circulation:
+
+- wealth accumulates  
+- inequality increases  
+- system destabilizes  
+
+### With circulation:
+
+- extremes reduce  
+- stability emerges  
+- resilience increases  
+
+---
+
+## 7. Expansion vs Constraint
+
+All agents:
+
+> attempt to expand their resource space
+
+But:
+
+- unlimited expansion → conflict  
+- constraint + circulation → sustainability  
+
+---
+
+## 8. Natural Analogy
+
+In nature:
+
+- water cycles  
+- nutrients circulate  
+- energy flows  
+
+No system is static.
+
+Thus:
+
+> Economy must mimic ecological circulation.
+
+---
+
+## 9. Ethical Layer
+
+Mabûn introduces:
+
+> Circulation as ethical necessity
+
+Not charity, but:
+
+- system survival mechanism  
+
+---
+
+## 10. Infrastructure Model
+
+Certain systems must be non-circulatory (shared):
+
+- water  
+- energy  
+- health  
+- education  
+
+These act as:
+
+> stabilizing base layers
+
+---
+
+## 11. Production Allocation Model
+
+Instead of taxation-only systems:
+
+- production zones allocated  
+- output directed to public systems  
+
+Example:
+
+- agriculture → education funding  
+- energy → healthcare  
+
+---
+
+## 12. Simulation Model
+
+Agents:
+
+- produce  
+- consume  
+- exchange  
+
+System tracks:
+
+- inequality (Gini coefficient)  
+- stability  
+- collapse threshold  
+
+---
+
+## 13. Hypotheses
+
+H1:
+
+> Systems without circulation collapse.
+
+H2:
+
+> Moderate circulation produces stability.
+
+H3:
+
+> Over-centralization reduces adaptability.
+
+---
+
+## 14. Falsifiability
+
+Mabûn fails if:
+
+- static systems outperform circulation  
+- inequality does not destabilize systems  
+- circulation does not improve resilience  
+
+---
+
+## 15. Integration with Zanistarast
+
+- Hebûn → existence  
+- Zanabûn → knowledge  
+- Mabûn → movement (economy)  
+
+Thus:
+
+> Economy is the **energy flow of existence**
+
+---
+
+## 16. Conclusion
+
+Mabûn establishes:
+
+> Stability is not achieved through equality, but through circulation.
+
+This allows:
+
+- real-world modeling  
+- simulation  
+- policy testing  
+
+---
+
+## Keywords
+
+Mabûn, Economics, Circulation, Complex Systems, Inequality, Agent-Based Modeling
+
 # Mabûn: The Theory of Economic Circulation in Zanistarast Framework
 
 ## Abstract
