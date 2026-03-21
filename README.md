@@ -122,4 +122,27 @@ Located in `/papers`:
 To establish Zanistarast as:
 
 > a testable and unified scientific framework of reality
+## 🚀 Quick Start
 
+### 1. Download the repository
+Download ZIP and extract it.
+
+### 2. Navigate to project folder
+
+### 3. Run simulation
+
+```bash
+python simulation/basic_model.py
+```
+
+### Expected Output
+
+```
+Simulation completed
+Average justice: <value>
+```
+## ⚠️ Notes
+
+- Make sure Python is installed
+- Run commands from the root directory
+- Do not run inside ZIP files
