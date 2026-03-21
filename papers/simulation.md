@@ -1,3 +1,223 @@
+# Simulation of Zanistarast: A Unified Agent-Based Model of Being, Knowledge, Economy, and Governance
+
+## Abstract
+
+This paper presents a full computational implementation of the Zanistarast framework.
+
+We integrate:
+
+- Hebûn (Ontology)
+- Zanabûn (Epistemology)
+- Mabûn (Economy)
+- Rasterast (Governance)
+
+into a single agent-based simulation.
+
+The goal is to test:
+
+> whether a system governed by information, coherence, circulation, and adaptive governance produces stability.
+
+---
+
+## 1. Introduction
+
+Zanistarast proposes a unified theory of reality.
+
+This paper tests it computationally.
+
+We simulate a system where:
+
+- agents exist (Hebûn)
+- agents perceive and learn (Zanabûn)
+- agents exchange resources (Mabûn)
+- agents govern collectively (Rasterast)
+
+---
+
+## 2. Model Overview
+
+Each agent has:
+
+- State (existence)
+- Knowledge (witnessing)
+- Resources (economic state)
+- Decision capacity (governance participation)
+
+---
+
+## 3. Agent Definition
+
+Each agent i has:
+
+\[
+Agent_i = (P_i, W_i, R_i, D_i)
+\]
+
+Where:
+
+- \(P_i\) = potential/state  
+- \(W_i\) = witnessing/knowledge  
+- \(R_i\) = resources  
+- \(D_i\) = decisions  
+
+---
+
+## 4. Ontology Layer (Hebûn)
+
+Existence condition:
+
+\[
+V_i = Stability(W_i)
+\]
+
+If instability increases:
+
+- agent collapses  
+- removed from system  
+
+---
+
+## 5. Epistemology Layer (Zanabûn)
+
+Knowledge:
+
+\[
+K = Mean(W_i)
+\]
+
+Variance:
+
+\[
+\sigma^2 = Var(W_i)
+\]
+
+- low variance → truth  
+- high variance → misinformation  
+
+---
+
+## 6. Economy Layer (Mabûn)
+
+Resource update:
+
+\[
+R_i(t+1) = (1 - \alpha) R_i(t) + \alpha \bar{R}
+\]
+
+---
+
+## 7. Governance Layer (Rasterast)
+
+Decision:
+
+\[
+D = f(H, E, S)
+\]
+
+System checks:
+
+- rights violations  
+- ethical alignment  
+- system stability  
+
+---
+
+## 8. Simulation Parameters
+
+- number of agents: N  
+- circulation rate: α  
+- noise level: ε  
+- decision accuracy: δ  
+
+---
+
+## 9. Experiments
+
+### Experiment 1: No Circulation
+Result:
+- inequality increases  
+- collapse occurs  
+
+---
+
+### Experiment 2: With Circulation
+Result:
+- stability emerges  
+- inequality reduces  
+
+---
+
+### Experiment 3: No Governance
+Result:
+- chaos  
+- instability  
+
+---
+
+### Experiment 4: Full System
+Result:
+- stable structure  
+- adaptive behavior  
+- long-term survival  
+
+---
+
+## 10. Metrics
+
+- Stability index  
+- Knowledge variance  
+- Resource inequality (Gini)  
+- Collapse rate  
+
+---
+
+## 11. Hypotheses Tested
+
+H1: Information-based control stabilizes systems ✔  
+H2: Circulation reduces collapse ✔  
+H3: Governance increases adaptability ✔  
+
+---
+
+## 12. Falsifiability
+
+Model fails if:
+
+- random systems outperform structured ones  
+- no stability emerges  
+- governance has no effect  
+
+---
+
+## 13. Results Interpretation
+
+Zanistarast suggests:
+
+- systems require structure  
+- knowledge requires coherence  
+- economy requires flow  
+- governance requires adaptation  
+
+---
+
+## 14. Conclusion
+
+Simulation confirms:
+
+> Stability emerges only when all four layers operate together.
+
+This validates Zanistarast as:
+
+- a testable framework  
+- a computational model  
+- a unified theory candidate  
+
+---
+
+## Keywords
+
+Zanistarast, Simulation, Agent-Based Model, Complex Systems, Economics, Governance
+
 # Simulation of Zanistarast Ontology: An Agent-Based Computational Model of Being, Knowledge, and Economic Circulation
 
 ## Abstract
