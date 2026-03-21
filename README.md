@@ -1,148 +1,103 @@
-# 🔮 Zanistarast Framework
-
-A unified, testable system integrating ontology, knowledge, economy, and governance.
-
----
-
-## 1. Core Idea
-
+🧠 Zanistarast Framework
+A unified framework integrating ontology, knowledge, economics, and governance into a testable and simulation-based system.
+🚀 Core Idea
 Zanistarast proposes:
-
-> Reality is not random.  
-> Systems operate through information-based control.
-
----
-
-## 2. System Layers
-
+Reality is not random
+Systems operate through knowledge-based control
+Structure, control, and interaction define all systems
+🧩 System Layers
 The framework consists of four interconnected layers:
-
-- **Hebûn** → Ontology (Being)
-- **Zanabûn** → Epistemology (Knowledge)
-- **Mabûn** → Economy (Circulation)
-- **Rasterast** → Governance (Control)
-
----
-
-## 3. Core Model
-
-All systems follow:
-
+Hebun → Ontology (Being)
+Zanabun → Epistemology (Knowledge)
+Mabun → Economics (Flow)
+Rasterast → Governance (Control)
+⚙️ Core Model
+All systems follow this structure:
 System = Core + Control + Interaction
-
 Where:
-
-- Core → structure  
-- Control → information  
-- Interaction → environment  
-
----
-
-## 4. Scientific Structure
-
+Core → structure
+Control → knowledge
+Interaction → environment
+🔬 Scientific Approach
 This project is built on:
-
-- formal claims
-- mathematical models
-- simulation frameworks
-- falsifiability conditions
-
-See:
-
-- EVIDENCE.md
-- BENCHMARKS.md
-- METRICS.md
-- REFERENCES.md
-
----
-
-## 5. Simulation
-
-Zanistarast is tested using:
-
-- agent-based modeling
-- multi-agent systems
-- circulation dynamics
-
-Measured by:
-
-- stability
-- knowledge coherence
-- inequality
-- collapse rate
-
----
-
-## 6. Benchmarking
-
+Formal claims
+Mathematical modeling
+Simulation frameworks
+Falsifiability principles
+🧪 Simulation
+Zanistarast has been tested using:
+Agent-based modeling
+Multi-agent systems
+Dynamic interactions
+Metrics:
+Stability
+Information consistency
+Inequality
+Collapse rate
+⚖️ Comparison
 Compared against:
-
-- random systems
-- accumulation-based economies
-- centralized governance models
-
----
-
-## 7. Scientific Position
-
-Zanistarast is connected to:
-
-- systems theory
-- information theory
-- complex systems
-- cybernetics
-- ecological economics
-
----
-
-## 8. Papers
-
-Located in `/papers`:
-
-- core-law.md
-- hebun.md
-- zanabun.md
-- mabun.md
-- rasterast.md
-- simulation.md
-
----
-
-## 9. Status
-
-- Concept → ✔  
-- Model → ✔  
-- Simulation → ✔  
-- Validation → in progress  
-
----
-
-## 10. Goal
-
-To establish Zanistarast as:
-
-> a testable and unified scientific framework of reality
-## 🚀 Quick Start
-
-### 1. Download the repository
+Random systems
+Accumulation-based economies
+Centralized governance models
+🔗 Related Fields
+Zanistarast connects to:
+Systems theory
+Information theory
+Complex systems
+Cybernetics
+Ecological economics
+📄 Papers
+Located in /papers:
+cekirdek-hukuk.md
+hebun.md
+zanabun.md
+mabun.md
+rasterast.md
+simulasyon.md
+📊 Status
+✔ Concept
+✔ Model
+✔ Simulation
+⏳ Validation (ongoing)
+🎯 Goal
+To establish:
+A testable and unified scientific framework of reality
+⚡ Quick Start
+1. Download the repository
 Download ZIP and extract it.
-
-### 2. Navigate to project folder
-
-### 3. Run simulation
-
-```bash
+⚠️ Do NOT run inside the ZIP file
+2. Navigate to project folder
+cd zanistarast-ontology-main
+3. Run the simulation
 python simulation/basic_model.py
-```
-
-### Expected Output
-
-```
+✅ Expected Output
 Simulation completed
 Average justice: <value>
-```
-## ⚠️ Notes
-
-- Make sure Python is installed
-- Run commands from the root directory
-- Do not run inside ZIP files
+⚠️ Important Notes
+Python must be installed (3.10+ recommended)
+Run commands inside the project folder
+Do NOT run inside compressed (ZIP) folder
+Make sure file paths are correct
+📦 Requirements
+Currently no external dependencies:
+Python 3.x
+🧱 Project Structure
+core/
+docs/
+models/
+notes/
+papers/
+simulation/
+tests/
+theory/
+README.md
+🤝 Contributing
+Feel free to:
+Open an issue
+Fork the project
+Submit a pull request
+📜 License
+License not specified yet (to be added).
+✨ Note
+This project is not just software,
+it is a conceptual and scientific framework.
