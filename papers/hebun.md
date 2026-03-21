@@ -1,3 +1,258 @@
+# Hebûn: A Computational Ontology of Being as Stable Patterns of Witnessing
+
+## Abstract
+
+This paper formalizes **Hebûn**, the ontological layer of the Zanistarast framework. It defines being not as a static entity, but as an emergent, stable pattern produced by the interaction between potential and witnessing.
+
+Building on complex systems theory, information theory, and dynamical systems, we propose that:
+
+> Being = Interaction(Potential, Witnessing)
+
+We further define being as:
+
+> A stable, self-consistent pattern of information across time.
+
+This formulation allows ontological concepts to become measurable, simulatable, and falsifiable.
+
+---
+
+## 1. Introduction
+
+Traditional ontology defines being as:
+
+- substance (classical philosophy)  
+- matter (physics)  
+- existence (metaphysics)  
+
+However, modern science suggests:
+
+- reality is dynamic  
+- systems evolve  
+- stability emerges  
+
+Hebûn introduces a new definition:
+
+> Being is not a thing. It is a **process stabilized over time**.
+
+---
+
+## 2. Core Equation of Being
+
+We define:
+
+\[
+V = Interaction(P, W)
+\]
+
+Where:
+
+- \(P\) = Potential  
+- \(W\) = Witnessing  
+
+---
+
+## 3. Potential (P)
+
+Potential is defined as:
+
+> The capacity to generate differentiation
+
+It includes:
+
+- unity (Ehad-like singular base)  
+- direction (initiation)  
+- power (realization)  
+- continuity (persistence)  
+
+But formally:
+
+\[
+P = Capacity(differentiation)
+\]
+
+Potential alone:
+
+- does not appear  
+- is not observable  
+
+---
+
+## 4. Witnessing (W)
+
+Witnessing is defined as:
+
+\[
+W = Perception + Differentiation + Recording
+\]
+
+Components:
+
+- Perception → input  
+- Differentiation → meaning  
+- Recording → memory  
+
+Thus:
+
+> Witnessing transforms potential into observable structure.
+
+---
+
+## 5. Definition of Being
+
+We define being as:
+
+> A stable pattern of witnessing across time
+
+Formally:
+
+\[
+V = StablePattern(W(t))
+\]
+
+Conditions for existence:
+
+- continuity  
+- coherence  
+- repeatability  
+
+---
+
+## 6. Information-Based Ontology
+
+Being is not matter alone.
+
+It is:
+
+> Structured information sustained over time.
+
+Thus:
+
+- atom → stable pattern  
+- cell → dynamic pattern  
+- human → complex pattern  
+
+---
+
+## 7. Multi-Dimensional Structure
+
+Hebûn proposes that being operates across multiple layers:
+
+### Layer 1–2: Physical (formation)
+- particles  
+- energy interactions  
+
+### Layer 3: Biological (organization)
+- cells  
+- organisms  
+
+### Layer 4: Cognitive (interpretation)
+- perception  
+- reasoning  
+
+### Layer 5: Social (collective structure)
+- systems  
+- networks  
+
+### Layer 6: Abstract/Systemic (meta-structure)
+- laws  
+- governing principles  
+
+---
+
+## 8. Stability Conditions
+
+A being exists only if:
+
+- pattern persists  
+- variation remains within bounds  
+
+Formally:
+
+\[
+Stability = LowVariance(W)
+\]
+
+If variance increases:
+
+- structure collapses  
+- being dissolves  
+
+---
+
+## 9. Expansion Behavior
+
+All beings exhibit:
+
+> Tendency to maintain and expand their pattern
+
+Formally:
+
+\[
+dV/dt > 0 \quad (under viable conditions)
+\]
+
+---
+
+## 10. Simulation Model
+
+Hebûn can be simulated using agents:
+
+Each agent:
+
+- has potential (P)  
+- processes witnessing (W)  
+
+System tracks:
+
+- pattern stability  
+- variance  
+- persistence  
+
+Outputs:
+
+- emergence of stable beings  
+- collapse thresholds  
+
+---
+
+## 11. Falsifiability
+
+Hebûn fails if:
+
+- stable patterns do not emerge  
+- witnessing does not affect existence  
+- randomness alone produces stability  
+
+---
+
+## 12. Implications
+
+This model implies:
+
+- existence is process-based  
+- stability defines reality  
+- information precedes structure  
+
+---
+
+## 13. Conclusion
+
+Hebûn redefines ontology:
+
+> Being is not a static object, but a **stable informational process**
+
+This allows:
+
+- measurement  
+- simulation  
+- scientific testing  
+
+---
+
+## Keywords
+
+Hebûn, Ontology, Complex Systems, Information Theory, Emergence, Stability
+
 # Hebûn: The Ontology of Being in Zanistarast Framework
 
 ## Abstract
